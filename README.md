@@ -8,8 +8,8 @@ I'm Raka Maulana — a passionate Mobile Engineer focused on building scalable a
 
 - 💼 Currently working as a Flutter Developer
 - ⚙️ Focused on scalable architecture: BLoC, Clean Architecture, TDD, Monorepo with Melos
-- 💬 Ask me about Flutter, Dart, Firebase, or mobile CI/CD
-- 🌱 Currently learning: Swift & iOS native, System Design
+- 💬 Ask me about Flutter, Dart, Firebase, Swift, Kotlin or mobile CI/CD
+- 🌱 Currently learning: System Design
 - 🛠 Tools: Flutter, Firebase, GitHub Actions, Fastlane, Figma, Notion
 
 ---
