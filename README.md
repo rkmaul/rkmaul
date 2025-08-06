@@ -21,7 +21,6 @@ Currently, I'm diving into **System Design** and backend architecture 🧠.
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-SwiftUI-FA7343?logo=swift&logoColor=white&style=for-the-badge"/>
