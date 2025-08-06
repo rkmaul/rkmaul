@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/YOUR_BANNER_IMAGE.png" alt="banner" width="100%"/>
+<img src="https://github.com/rkmaul/rkmaul/blob/master/Banner.png" alt="banner" width="100%"/>
 
 <!-- Profile counter -->
 <p align="center">
