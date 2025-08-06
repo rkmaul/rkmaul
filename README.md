@@ -1,23 +1,33 @@
-# Hi there 👋
+# 👋 Hi there!
 
-I'm Raka Maulana — a passionate Mobile Engineer focused on building scalable and maintainable apps using Flutter. I love clean architecture, automation, and developer tooling.
+I'm **Raka Maulana** — a passionate Mobile Engineer focused on building scalable and maintainable apps using Flutter. I love clean architecture, automation, and developer tooling.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rkmaul&color=blue)
 
+---
+
 ## 🧑‍💻 About Me
 
-- 💼 Currently working as a Flutter Developer
-- ⚙️ Focused on scalable architecture: BLoC, Clean Architecture, TDD, Monorepo with Melos
-- 💬 Ask me about Flutter, Dart, Firebase, Swift, Kotlin or mobile CI/CD
-- 🌱 Currently learning: System Design
+- 💼 Currently working as a **Flutter Developer**
+- ⚙️ Focused on scalable architecture: **BLoC**, **Clean Architecture**, **TDD**, **Monorepo with Melos**
+- 💬 Ask me about **Flutter**, **Dart**, **Firebase**, **Swift**, **Kotlin**, or **mobile CI/CD**
+- 🌱 Currently learning: **System Design**
 - 🛠 Tools: Flutter, Firebase, GitHub Actions, Fastlane, Figma, Notion
 
 ---
 
 ## 📊 GitHub Stats
 
-![rkmaul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkmaul&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkmaul&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rkmaul&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkmaul&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,10 +42,8 @@ I'm Raka Maulana — a passionate Mobile Engineer focused on building scalable a
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rkmaul/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/rkmaul)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rakaworsnop@gmail.com)
-
----
