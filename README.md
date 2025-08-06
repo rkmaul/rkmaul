@@ -1,49 +1,57 @@
-# 👋 Hi there!
+<!-- Banner -->
+<img src="https://i.imgur.com/YOUR_BANNER_IMAGE.png" alt="banner" width="100%"/>
 
-I'm **Raka Maulana** — a passionate Mobile Engineer focused on building scalable and maintainable apps using Flutter. I love clean architecture, automation, and developer tooling.
-
-![Profile Views](https://komarev.com/ghpvc/?username=rkmaul&color=blue)
-
----
-
-## 🧑‍💻 About Me
-
-- 💼 Currently working as a **Flutter Developer**
-- ⚙️ Focused on scalable architecture: **BLoC**, **Clean Architecture**, **TDD**, **Monorepo with Melos**
-- 💬 Ask me about **Flutter**, **Dart**, **Firebase**, **Swift**, **Kotlin**, or **mobile CI/CD**
-- 🌱 Currently learning: **System Design**
-- 🛠 Tools: Flutter, Firebase, GitHub Actions, Fastlane, Figma, Notion
+<!-- Profile counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rkmaul&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 👋 Hi, I'm Raka Maulana — A Mobile Developer in the Making
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rkmaul&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkmaul&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+I'm a passionate mobile engineer focused on building clean, scalable, and maintainable apps using Flutter 🚀.  
+I love architecture patterns like BLoC and TDD, building monorepo projects with Melos, and automating my workflow with CI/CD pipelines.  
+Currently, I'm diving into **System Design** and backend architecture 🧠.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technology Stack
 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkmaul&show_icons=true&theme=radical&hide_border=true" width="47.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkmaul&layout=compact&theme=radical&hide_border=true" width="47.5%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkmaul&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rkmaul/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/rkmaul)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rakaworsnop@gmail.com)
+<p align="center">
+  <a href="mailto:rakaworsnop@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://linkedin.com/in/rkmaul">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/rkmaul">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
