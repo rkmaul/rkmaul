@@ -39,7 +39,3 @@ I'm Raka Maulana — a passionate Mobile Engineer focused on building scalable a
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rakaworsnop@gmail.com)
 
 ---
-
-## 🧠 Fun Fact
-
-I believe **developer experience (DX)** is just as important as user experience. Great tooling makes great products. 🚀
